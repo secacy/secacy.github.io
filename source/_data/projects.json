@@ -1,12 +1,12 @@
 [
     {
-       "name":"Hexo",
-       "url":"https://hexo.io/",
-       "desc":"A fast, simple & powerful blog framework"
+       "name":"Plato-wr",
+       "url":"https://github.com/secacy/plato",
+       "desc":"IM消息系统"
     },
     {
-       "name":"Font Awesome",
-       "url":"http://fontawesome.io/",
-       "desc":"The iconic font and CSS toolkit"
+      "name": "图与图寻",
+      "url": "https://github.com/secacy/faiss-image-search",
+      "desc": "基于 Faiss 的以图搜图系统"
     }
 ]
