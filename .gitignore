@@ -7,3 +7,7 @@ yarn.lock
 package-lock.json
 node_modules/
 .vscode
+public/
+.deploy_git/
+db.json
+.DS_Store
