@@ -16,3 +16,13 @@ hexo s
 ```
 
 
+# hexo安装指南
+安装hexo：
+```bash
+npm install -g hexo-cli
+```
+
+安装依赖：
+```bash
+npm install
+```
